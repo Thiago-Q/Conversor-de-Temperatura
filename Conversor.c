@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(void){
   float temperatura_F, conversao_C;
   printf("Informe a medida em Fahrenheit: ");
